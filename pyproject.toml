@@ -1,0 +1,18 @@
+[project]
+name = "pyfastmarkdownlint"
+version = "0.0.1"
+authors = [
+  { name="Sri Aradhyula", email="srinivas.aradhyula@gmail.com" },
+]
+description = "Fast Python Markdown Lint"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/sriaradhyula/pyfastmarkdownlint"
+"Bug Tracker" = "https://github.com/sriaradhyula/pyfastmarkdownlint/issues"
